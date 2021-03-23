@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ConsoleApp20210324\ConsoleApp20210324\bin\Debug\netcoreapp2.1\ConsoleApp20210324.deps.json
+C:\Users\User\source\repos\ConsoleApp20210324\ConsoleApp20210324\bin\Debug\netcoreapp2.1\ConsoleApp20210324.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp20210324\ConsoleApp20210324\bin\Debug\netcoreapp2.1\ConsoleApp20210324.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConsoleApp20210324\ConsoleApp20210324\bin\Debug\netcoreapp2.1\ConsoleApp20210324.dll
+C:\Users\User\source\repos\ConsoleApp20210324\ConsoleApp20210324\obj\Debug\netcoreapp2.1\ConsoleApp20210324.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp20210324\ConsoleApp20210324\obj\Debug\netcoreapp2.1\ConsoleApp20210324.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp20210324\ConsoleApp20210324\obj\Debug\netcoreapp2.1\ConsoleApp20210324.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp20210324\ConsoleApp20210324\bin\Debug\netcoreapp2.1\ConsoleApp20210324.pdb
+C:\Users\User\source\repos\ConsoleApp20210324\ConsoleApp20210324\obj\Debug\netcoreapp2.1\ConsoleApp20210324.dll
+C:\Users\User\source\repos\ConsoleApp20210324\ConsoleApp20210324\obj\Debug\netcoreapp2.1\ConsoleApp20210324.pdb
+C:\Users\User\source\repos\ConsoleApp20210324\ConsoleApp20210324\obj\Debug\netcoreapp2.1\ConsoleApp20210324.csprojAssemblyReference.cache

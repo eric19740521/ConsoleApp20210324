@@ -10,6 +10,8 @@ https://anglerdiy.com/?p=2563
 https://ithelp.ithome.com.tw/articles/10218214
 
 
+程式碼:https://github.com/eric19740521/ConsoleApp20210324
+
 1.xampp,mysql安裝
 http://yhhuang1966.blogspot.com/2017/11/xampp-php.html
 

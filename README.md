@@ -1,8 +1,8 @@
 # ConsoleApp20210324
 
-VS2017 C# MYSQL資料庫開發(.Net Core主控台應用程式)+linux群輝NAS部屬docker
+VS2017 C# MYSQL資料庫開發 跨平台(.Net Core主控台應用程式)+linux群輝NAS部屬docker
 
-參考資料:
+參考資料:  open free 
 https://docs.microsoft.com/zh-tw/azure/mysql/connect-csharp
 http://yhhuang1966.blogspot.com/2017/11/xampp-php.html
 http://www.coolsun.idv.tw/modules/xhnewbb/viewtopic.php?topic_id=1510
@@ -28,6 +28,14 @@ https://my.visualstudio.com/Downloads?q=visual%20studio%202017&wt.mc_id=o~msft~v
 4.引用
 using MySql.Data;
 using MySql.Data.MySqlClient;
+
+
+
+5.編譯專案
+dotnet build
+
+執行專案
+dotnet run
 
 
 
